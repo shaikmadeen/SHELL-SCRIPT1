@@ -1,5 +1,6 @@
+
 #!/bin/bash
 
-# this is comment
+#this is comment
 
-echo "Hello Shell script"
+echo "Hello, iam learning shell script"
