@@ -1,9 +1,9 @@
 #!/bin/bash
 
-person1=madeen
-person2=gopi
+PERSON1=madeen
+PERSON2=gopi
 
-echo "$person1: Hello $person2, Good morning"
-echo "$person2: Hi $person1, very good morning"
-echo "$person1: How are you $person2"
-echo "$person2: Iam fine $person1 and what about you?"
+echo "$PERSON1: Hello $PERSON2, Good morning"
+echo "$PERSON2: Hi $PERSON1, very good morning"
+echo "$PERSON1: How are you $PERSON2"
+echo "$PERSON2: Iam fine $PERSON1 and what about you?"
